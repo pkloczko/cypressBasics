@@ -4,8 +4,11 @@
     "\\.idea",
     "\\cypress",
     "\\cypress\\downloads",
-    "\\cypress\\integration\\my tests"
+    "\\cypress\\fixtures",
+    "\\cypress\\integration",
+    "\\cypress\\integration\\my tests",
+    "\\cypress\\pages"
   ],
-  "SelectedNode": "\\package-lock.json",
+  "SelectedNode": "\\cypress\\pages\\LogInPage.js",
   "PreviewInSolutionExplorer": false
 }
